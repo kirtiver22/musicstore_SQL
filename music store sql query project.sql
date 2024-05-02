@@ -1,4 +1,4 @@
---Q1: Who is the sinor most employee based on job title?
+--Q1: Who is the senior most employee based on job title?
 SELECT * FROM employee
 ORDER BY levels desc
 limit 1
@@ -10,7 +10,7 @@ FROM invoice
 GROUP BY billing_country
 ORDER BY c desc
 
-Q3: what are top 3 values of total invoice?
+Q3: what are the top 3 values of total invoice?
 
 SELECT total FROM invoice
 ORDER BY total desc
