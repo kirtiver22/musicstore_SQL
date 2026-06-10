@@ -1,4 +1,5 @@
-# musicstore_SQL
+![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql)
+
 🎵 Music Store Data Analysis (SQL)
 
 About the Project
